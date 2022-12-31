@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainRepus
 - 👀 I’m interested in HTML and esports
-- 🌱 I’m currently learning HTML/CSS/PHP
+- 🌱 I’m currently learning CSS/JavaScript
 - 📫 How to reach me lazorik.leonard@outlook.com
 - 📫 Instagram: @_ unickname_
 <!---
