@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainRepus
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning GIT/Javascript
+- 🌱 I’m currently learning Ionic Framework
 - 📫 How to reach me lazorik.leonard@outlook.com
 - 📫 Instagram: @_ unickname_
 <!---
